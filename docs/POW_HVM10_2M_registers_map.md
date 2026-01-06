@@ -123,9 +123,9 @@
 | 5019     | AC input voltage range (range 0-1 (90-280VAC, 170-280VAC), settings menu 3)         | +        |
 | 5020     | Battery type (range 0-5 (AGM, USE, LIB, LIC, LIP, LIL), settings menu 5)            | +        |
 | 5021     | Output frequency (range 0-1 (50 Hz, 60 Hz), settings menu 9)                        | +        |
-| 5022     | Max Total Charge Current (range 10-160 (step 10), settings menu 2)                             | +        |
-| 5023     | Output voltage (range 220, 230, 240, settings menu 10)                             | +        |
-| 5024     | Utility Charge Current (range 2, 10 - 140 (step 10), settings menu 11)             | +        |
+| 5022     | Max Total Charge Current (range 10-160 (step 10), settings menu 2)                  | +        |
+| 5023     | Output voltage (range 220, 230, 240, settings menu 10)                              | +        |
+| 5024     | Utility Charge Current (range 2, 10 - 140 (step 10), settings menu 11)              | +        |
 | 5025     | Comeback Utility Mode Voltage (SBU) (0.5 Volts step, settings menu 12)              | +        |
 | 5026     | Comeback Battery Mode Voltage (SBU) (0.5 Volts step, settings menu 13)              | +        |
 | 5027     | Bulk charging voltage (settings menu 26)                                            | +        |
